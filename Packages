@@ -1,0 +1,21 @@
+Package: com.brend0n.ccnoisecontrol
+Architecture: iphoneos-arm
+Version: 0.0.4
+Section: Control Center (Modules)
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 184
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debians/me.syns.sample.deb
+Size: 10942
+MD5sum: 61e09656b412142227720eda0fa68f4b
+SHA1: cf42cea4311c85fc044a9fa3dd489feb6e700713
+SHA256: a92e45325fdb25fc0c0c1e82dcb4a9e2721f35b3419a5f178588fbfde149b821
+SHA512: 93c3e947891bff50ae876caa37413e3b1938a4cbfb62e0b989a82bea75d97611f5d902e79c35ac8528367165353d7bae8afb7be23b8aeeee77a08db6fa2c3f6f
+Description: A Control Center Module to switch NoiseCancellation/Transparency. (Airpods Pro/Max)
+ A Control Center Module to switch NoiseCancellation/Transparency. (Airpods Pro/Max)
+ 0.0.4: Fix glyph color not updated when no device connected. Properly update status when not caused by Module itself.
+ 0.0.3: Add NC/Off Module. Add transition animation. Add Settings Icon.
+ 0.0.2: Fix icon on iOS 13
+Name: CCNoiseControl
+Author: Brend0n <brendonjkding@126.com>
+
