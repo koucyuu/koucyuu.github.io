@@ -6,13 +6,13 @@ Maintainer: Brend0n <brendonjkding@126.com>
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: ./debians/me.syns.sample_0.0.1_iphoneos-arm.deb
-Size: 4300
-MD5sum: 8c028e6419aeb26ec3c4ec99c708f8d9
-SHA1: 3393c93ae7a58ab23726e677621809344cb975f7
-SHA256: d56b86f6a5c7e3da30e94dab4b6655fcd617e4a69a69c156facd6980c2b2a4ef
-SHA512: f11811ba04c95d1be28cb3e20a8faa35c46c69268e61c520b89c7d3f69555903da99e14452718685ce95845f1f803367e74df96646ae5dfd2440805bac07c960
+Size: 4306
+MD5sum: 71d20d12e60e9a600612608d5e7d1fd2
+SHA1: f5627e845da19257069725d7b3c85cdcc734486d
+SHA256: e7a76cd8d9988ba2e1a553fa91265702980db9271eb3d80f3050e27bc298ab3f
+SHA512: bff1d0a8d9365d08dfad2ded87ed81a427dc26aea312c598ef044cf5b03d7276f994cb2c3ee87489de0f38839e2fa44c7322bfeb18293c2cd23edeeade53f258
 Description: An awesome MobileSubstrate tweak!
 Name: test
 Author: Brend0n <brendonjkding@126.com>
-Depiction: https://koucyuu.github.io/repo/depictions/web/?p=me.syns.sample
+Depiction: https://koucyuu.github.io/depictions/web/?p=me.syns.samplepackage
 
