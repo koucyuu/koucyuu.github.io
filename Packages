@@ -6,11 +6,11 @@ Maintainer: Brend0n <brendonjkding@126.com>
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: ./debians/me.syns.sample_0.0.1_iphoneos-arm.deb
-Size: 4354
-MD5sum: da05572d421cf962f8f5f00f5663d48e
-SHA1: 68b8eb5614ede7b83cd31655dca26eedee1d35c9
-SHA256: 618f3b5b27653d483089330035b138711bf2491052d5cc2a29b47d3978d41deb
-SHA512: 2b2ba27704bc99e02007e50771d1776ffcd1c5bf4c9bb9610789fcc22a633761ddf01fb2ea2166d3c948106e2b828ec0b09f940b49d6ab595ae55be7b0ed9c0c
+Size: 4350
+MD5sum: 776e9b1463c4d544472fb4b9b9ef0441
+SHA1: 70fc42d3dbee07e91ac8276e4323da23292bedfd
+SHA256: c3dde187f141fa8fa5f80491dbacae95e67c8ffa029545715bd7f07f2c8ad28b
+SHA512: 5cb21ed7f401d174d5fecba5ab27e2b86fbc2464310f727eb469b5764deb8963e8f33e71924401f563771dae157d71f99cd13a706cfa5155ca0fa8453b67e79f
 Description: An awesome MobileSubstrate tweak!
 Name: dddfjwio
 Author: Brend0n <brendonjkding@126.com>
