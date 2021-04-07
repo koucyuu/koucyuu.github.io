@@ -48,9 +48,9 @@ function data_loader_engine(contentBlocks,xml) {
 						var item = $(value).text()
 						
 						if (!!contentInfo.reverseRender) {
-							$(key).prepend( $(contentInfo.paragraphElement).html("<p>"+item+"</p>") )
+							$(key).prepend( $(contentInfo.paragraphElement).html(item) )
 						} else {
-							$(key).append( $(contentInfo.paragraphElement).html("<p>"+item+"</p>") )
+							$(key).append( $(contentInfo.paragraphElement).html(item) )
 						}
 					});
 				}
@@ -64,7 +64,7 @@ function data_loader_engine(contentBlocks,xml) {
 					var container = $(contentInfo.paragraphContainer).attr("id",++titleID);
 					$(key).append($(container));
 					$.each( $(article).find(contentInfo.paragraphSource), function(index,paragraph){
-						$(container).append( $(contentInfo.paragraphElement).html("<p>"+$(paragraph).text()+"</p>") )
+						$(container).append( $(contentInfo.paragraphElement).html($(paragraph).text()) )
 					}) //paragraph
 				}) //article
 

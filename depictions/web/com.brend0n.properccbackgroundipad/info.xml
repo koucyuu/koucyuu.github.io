@@ -1,30 +1,29 @@
 <package>
-	<id>com.sukarodo.samplepackage</id>
-	<name>Sample Package</name>
-	<version>1.0</version>
+	<id>com.brend0n.properccbackgroundipad</id>
+	<name>ProperCCBackground(iPad)</name>
+	<version>0.0.1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>11.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>Make Control Center not to blur the whole screen.</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
+		Make Control Center not to blur the whole screen.
 		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<image>cydia.jpg</image>
+			<image>1.PNG</image>
 		</screenshot>				
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
+		<change>Initial Release</change>
 	</changelog>
 	<links>
 		<link>
@@ -33,8 +32,8 @@
 			<iconclass>fab fa-twitter</iconclass>
 		</link>
 		<link>
-			<name>Github</name>
-			<url>https://github.com/brendonjkding</url>
+			<name>Source Code</name>
+			<url>https://github.com/brendonjkding/ProperCCBackground</url>
 			<iconclass>fab fa-github</iconclass>
 		</link>
 		<link>
