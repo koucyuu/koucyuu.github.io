@@ -27,10 +27,6 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "title": "Latest Version",
-                    "class": "DepictionHeaderView"
-                },
-                {
                     "title": "Version",
                     "text": "0.0.1",
                     "class": "DepictionTableTextView"
@@ -53,11 +49,6 @@
                 {
                     "title": "打赏",
                     "action": "https://qr.alipay.com/fkx199226yyspdubbiibddc",
-                    "class": "DepictionTableButtonView"
-                },
-                {
-                    "title": "Repo",
-                    "action": "sileo://source/https://brendonjkding.github.io",
                     "class": "DepictionTableButtonView"
                 },
                 {
